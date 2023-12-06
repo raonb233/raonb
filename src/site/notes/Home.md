@@ -9,10 +9,12 @@
 但是更新频率估计是不确定的
 
 # 个人介绍
-你好，这里是振瀚。一个在双非带专学习政治学的苦逼大学生。在这个地方，我将致力于制作和分享有关左翼思潮和政治学领域的相关内容。这里将记载我个人的读书笔记和平时学习的内容，同时也会记载一些时政随笔。
+你好，这里是振瀚。一个学习政治学的大学生。在这个地方，我将致力于制作和分享有关左翼思潮和政治学领域的相关内容。这里将记载我个人的读书笔记和平时学习的内容，同时也会记载一些时政随笔。
 
 [GitHub主页]
 
 ![raonb233's GitHub stats](https://github-readme-stats.vercel.app/api?username=raonb233&show_icons=true&theme=tokyonight)
 # 友链
 [Cumulus积云](https://cumulus-clouds.netlify.app/)
+
+![Moe Count (moe-counter.glitch.me)](https://moe-counter.glitch.me/get/@:raonb)
